@@ -14,19 +14,7 @@
   <li>JavaScript</li>
 </ul>
 
-#### Steps to Use:
 
----
-
-- Download or clone the repository
-
-```
-git clone https://github.com/Ayushparikh-code/Web-dev-mini-projects.git
-```
-
-- Go to the directory
-- Run the index.html file
-- Start Calculating!!
 
 <h3> ScreenShots </h3> 
 <img width="233" alt="Calc" src="https://user-images.githubusercontent.com/64218887/124379862-1d255f80-dcd7-11eb-9d61-585d873d92a0.png">
